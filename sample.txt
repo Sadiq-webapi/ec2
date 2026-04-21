@@ -1,1 +1,2 @@
 hello from ec2 instances
+and i'm testing from ec2 instances
